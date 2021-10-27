@@ -7,7 +7,6 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -34,7 +33,6 @@ h1 {
   /* Internet Explorer/Edge */
   user-select: none;
   /* Non-prefixed version, currently supported by Chrome, Opera and Firefox */
-
 }
 
 p {
@@ -52,5 +50,4 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }

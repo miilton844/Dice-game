@@ -6,8 +6,8 @@ const randomCubeResults = () => {
     return {
         img1Source: img1Source,
         img2Source: img2Source,
-        randomNumber1:randomNumber1,
-        randomNumber2:randomNumber2
+        randomNumber1: randomNumber1,
+        randomNumber2: randomNumber2
     }
 }
 
@@ -36,4 +36,4 @@ const choosingCube = (randomNumber) => {
     return imgSource
 }
 
-module.exports =  { randomCubeResults }
+module.exports = { randomCubeResults }
